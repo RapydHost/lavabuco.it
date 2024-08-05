@@ -38,4 +38,3 @@ meta_keywords:
 ---
 ![lavabucobanner](https://lavabuco.it/assets/img/lavabucobanner.png) {:.ma-0 .pa-0}
 @[youtube](https://www.youtube.com/watch?v=YIrMVN74lGU)
-## The Napoleonic datapack was made by Ruby, RkeyCap, 1223nij, thane and Cong 
