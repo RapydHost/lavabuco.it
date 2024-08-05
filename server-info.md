@@ -36,5 +36,5 @@ meta_keywords:
 - "civilizations"
 - "youtube"
 ---
-![lavabucobanner](https://lavabuco.it/assets/img/lavabucobanner.png) {:.ma-0 .pa-0}
+![lavabucobanner](https://lavabuco.it/assets/images/serverbanner.webp) {:.ma-0 .pa-0}
 @[youtube](https://www.youtube.com/watch?v=YIrMVN74lGU)
